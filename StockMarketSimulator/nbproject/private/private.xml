@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Renan/Documents/NetBeansProjects/StockMarketSimulator/src/investors/proxy/RealInvestor.java</file>
+            <file>file:/C:/Users/Renan/Documents/NetBeansProjects/StockMarketSimulator/src/simulator/command/TransactionLink.java</file>
+            <file>file:/C:/Users/Renan/Documents/NetBeansProjects/StockMarketSimulator/src/investors/proxy/Investor.java</file>
+            <file>file:/C:/Users/Renan/Documents/NetBeansProjects/StockMarketSimulator/src/simulator/command/BuyRuleTransaction.java</file>
+            <file>file:/C:/Users/Renan/Documents/NetBeansProjects/StockMarketSimulator/src/stockmarketsimulator/StockMarketSimulator.java</file>
+            <file>file:/C:/Users/Renan/Documents/NetBeansProjects/StockMarketSimulator/src/simulator/command/TradingDay.java</file>
+            <file>file:/C:/Users/Renan/Documents/NetBeansProjects/StockMarketSimulator/src/companies/decorator/Company.java</file>
+            <file>file:/C:/Users/Renan/Documents/NetBeansProjects/StockMarketSimulator/src/investors/proxy/InvestorProxy.java</file>
+            <file>file:/C:/Users/Renan/Documents/NetBeansProjects/StockMarketSimulator/src/stockmarketsimulator/Menu.java</file>
+            <file>file:/C:/Users/Renan/Documents/NetBeansProjects/StockMarketSimulator/src/companies/decorator/FancyCompany.java</file>
+            <file>file:/C:/Users/Renan/Documents/NetBeansProjects/StockMarketSimulator/src/simulator/command/SimulatorChainTest.java</file>
+            <file>file:/C:/Users/Renan/Documents/NetBeansProjects/StockMarketSimulator/src/simulator/command/ShareRuleTransaction.java</file>
+            <file>file:/C:/Users/Renan/Documents/NetBeansProjects/StockMarketSimulator/src/companies/decorator/BasicCompany.java</file>
+        </group>
+    </open-files>
+</project-private>
